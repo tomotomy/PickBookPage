@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### プライバシーポリシー
 
-You can use the [editor on GitHub](https://github.com/tomotomy/PickBookPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本アプリ「PickBook」は、ユーザーの個人情報保護の重要性について認識し、個人情報の保護に関する法律（以下「個人情報保護法」といいます。）を遵守すると共に、以下のプライバシーポリシー（以下「本プライバシーポリシー」といいます。）に従い、適切な取扱い及び保護に努めます。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 個人情報の利用目的
 
-### Markdown
+・当社サービスの提供のため
+・当社サービスに関するご案内、お問い合せ等への対応のため
+・当社の商品、サービス等のご案内のため
+・当社サービスに関する当社の規約、ポリシー等（以下「規約等」といいます。）に違反する行為に対する対応のため
+・当社サービスに関する規約等の変更などを通知するため
+・当社のサービスの改善、新サービスの開発等に役立てるため
+・当社のサービスに関連して、個人を識別できない形式に加工した統計データを作成するため
+・当社のウェブサイト上において、他の利用者の検索、閲覧に供するため
+・その他、上記利用目的に付随する目的のため
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 本アプリが入手する個人情報
 
-```markdown
-Syntax highlighted code block
+・端末情報（iPhone 8s、Xperia XZ など）
 
-# Header 1
-## Header 2
-### Header 3
+### 本プライバシーポリシーに関して
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomotomy/PickBookPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本プライバシーポリシーにおいて不明点などありましたらアプリストアのメールからご連絡お願い致します。
